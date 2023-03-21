@@ -33,7 +33,6 @@ section.alternate-background {
 }
 
 main img {
-  margin-bottom: 30px;
   width: 100%;
 }
 /* ---  Groups & Items --- */
@@ -142,7 +141,7 @@ footer p {
 
 /* -------  Media Query ------- */
 
-@media all and (min-width: 600px) {
+@media all and (min-width: 480px) {
   .logo {
     font-size: 50px;
   }
